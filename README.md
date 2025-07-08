@@ -1,8 +1,26 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+frontend only file converter and files can be downloaded.
+file converter with @ffmpeg/ffmpeg. react/javascript.
+specs: <PNGtoJpg />
+      <JPGtoPNG />
+      <JPGtoPDF />
+      <PNGtoPDF />
+      <ZipFile />
+      <MP3toMP4 />
+      <MP3toMKV />
+      <MP3toAVI />
+      <MP3toAAC />
+      <MP3toWAV />
+      <MP3toFLAC />
+      <MP3toOGG />
+      <MP3toWMA />
+      <MP3toM4A />
+      <MP3toAIFF />
+      <MP3toWebM />
+      <AACtoMP3 />
+      <AACtoWAV />
+      <AACtoMP4 />
+      <WAVtoMP3 />
+      <WAVtoAAC />
+      <WAVtoMP4 />
