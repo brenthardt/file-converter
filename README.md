@@ -1,4 +1,3 @@
-# React + Vite
 
 frontend only file converter and files can be downloaded.
 file converter with @ffmpeg/ffmpeg. react/javascript.
